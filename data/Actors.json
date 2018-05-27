@@ -3,5 +3,5 @@ null,
 {"id":1,"battlerName":"Nijio_unleashed_fight","characterIndex":0,"characterName":"Nijio_Unleahed_walk","classId":1,"equips":[1,1,2,3,0],"faceIndex":3,"faceName":"Nijo_Unleahed","traits":[],"initialLevel":99,"maxLevel":99,"name":"Nijio","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"rin","characterIndex":0,"characterName":"rin-walk","classId":3,"equips":[2,1,2,3,0],"faceIndex":2,"faceName":"rin","traits":[],"initialLevel":99,"maxLevel":99,"name":"Rin","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"stel","characterIndex":0,"characterName":"stel -walk","classId":1,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"stel","traits":[],"initialLevel":99,"maxLevel":99,"name":"Stel","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"kito","characterIndex":0,"characterName":"kito_walk","classId":2,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"kito","traits":[],"initialLevel":99,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""}
+{"id":4,"battlerName":"kito","characterIndex":0,"characterName":"kito_walk","classId":1,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"kito","traits":[],"initialLevel":99,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""}
 ]
