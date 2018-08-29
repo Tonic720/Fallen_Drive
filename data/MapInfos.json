@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Asea","order":9,"parentId":4,"scrollX":2432,"scrollY":624},
-{"id":2,"expanded":true,"name":"Teleport hub","order":10,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"Teleport hub","order":10,"parentId":1,"scrollX":811,"scrollY":499},
 {"id":3,"expanded":false,"name":"forest-p2","order":11,"parentId":4,"scrollX":832,"scrollY":640},
 {"id":4,"expanded":true,"name":"Forest","order":8,"parentId":0,"scrollX":816,"scrollY":716},
 {"id":5,"expanded":true,"name":"1-1 start cave","order":1,"parentId":0,"scrollX":1321.3333333333333,"scrollY":598},
